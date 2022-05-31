@@ -1,0 +1,6 @@
+Method,Name,Error,Occurrences
+GET,/service2,"[WinError 10053] Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen",2208
+GET,/service2,"URL http://localhost/service2: 1, original=timed out",4136
+GET,/service1,"[WinError 10053] Eine bestehende Verbindung wurde softwaregesteuert
+durch den Hostcomputer abgebrochen",2167
