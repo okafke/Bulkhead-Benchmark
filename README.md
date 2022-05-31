@@ -1,4 +1,4 @@
-# Bulkhead-Benchmar
+# Bulkhead-Benchmark
 Small server with a benchmark to show how the bulkhead pattern can increase performance. 
 For a Seminar at my University.
 
